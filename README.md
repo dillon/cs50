@@ -1,4 +1,4 @@
-# cs50-projects
+# My CS50 Projects
 All of my projects for CS50 2018
 
 
