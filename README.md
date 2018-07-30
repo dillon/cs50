@@ -25,6 +25,9 @@ Demo Video:
 " target="_blank"><img src="http://img.youtube.com/vi/3HaIw0yAygI/0.jpg" 
 alt="Youtube Video" width="480" height="360" border="10" /></a>
 
+
+
+
 ## Local News
 #### Flask, SQLite, Google Maps API
 #### Python, Javascript, jQuery
