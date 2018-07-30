@@ -1,0 +1,51 @@
+{
+    "cs50": {
+        "debug": {
+            "@name": "output",
+            "@pid": 9664,
+            "@proxy": 10475,
+            "@ver": 16
+        },
+        "info": {
+            "@info_revision": 3,
+            "@latestVersion": 135,
+            "@public": false,
+            "@update_revision": 5
+        },
+        "simple": {
+            "@browser": 1,
+            "@scm-enabled": true,
+            "@ver": 14
+        }
+    },
+    "general": {
+        "@stripws": true
+    },
+    "language": {
+        "@undeclaredVars": true,
+        "tern_defs": {
+            "json()": {
+                "browser": {
+                    "enabled": true
+                },
+                "ecma5": {
+                    "enabled": true
+                },
+                "jQuery": {
+                    "enabled": true
+                }
+            }
+        }
+    },
+    "python": {
+        "@path": "/home/ubuntu/.cs50/py_modules:/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages",
+        "@pylintFlags": "-d all -e E -e F --generated-members=app.jinja_env.*,db.session.*,Registrant.* --ignored-classes=SQL,SQLAlchemy --load-plugins pylint50",
+        "@version": "python3"
+    },
+    "run": {
+        "configs": {
+            "@inited": "true",
+            "json()": {}
+        }
+    }
+}
