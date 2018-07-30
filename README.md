@@ -1,8 +1,8 @@
-# My CS50 Projects
+## My CS50 Projects
 All of my projects for CS50 2018
 
 
-## Crypto Dashboard
+# Crypto Dashboard
 #### React Native, Redux
 
 A React Native mobile app that displays market info and news on the top 200 cryptocurrencies by market cap.
@@ -27,7 +27,7 @@ alt="Youtube Video" width="480" height="360" border="10" /></a>
 
 ___
 
-## Local News
+# Local News
 #### Flask, SQLite, Google Maps API
 #### Python, Javascript, jQuery
 
