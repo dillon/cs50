@@ -1,5 +1,5 @@
-## My CS50 Projects
-All of my projects for CS50 2018
+# My CS50 Projects
+This repository contains all of my projects from CS50. Descriptions and demos of each project are below
 
 
 # Crypto Dashboard
