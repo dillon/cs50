@@ -10,9 +10,10 @@ A React Native mobile app that displays the names of the top 200 cryptocurrencie
 ![app gif](https://github.com/dpett/cs50-projects/blob/master/project/gif1.gif?raw=true)
 
 Youtube Video:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3HaIw0yAygI
 " target="_blank"><img src="http://img.youtube.com/vi/3HaIw0yAygI/0.jpg" 
-alt="Youtube Video" width="400" height="180" border="10" /></a>
+alt="Youtube Video" width="480" height="360" border="10" /></a>
 
 
 
