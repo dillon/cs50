@@ -1,4 +1,4 @@
-## Crypto Dashboard
+## Local News
 #### Flask, SQLite, Google Maps API
 #### Python, Javascript, jQuery
 
