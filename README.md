@@ -3,7 +3,7 @@ All of my projects for CS50 2018
 
 
 # Crypto Dashboard
-#### React Native, Redux
+### React Native, Redux
 
 A React Native mobile app that displays market info and news on the top 200 cryptocurrencies by market cap.
 
@@ -28,8 +28,8 @@ alt="Youtube Video" width="480" height="360" border="10" /></a>
 ___
 
 # Local News
-#### Flask, SQLite, Google Maps API
-#### Python, Javascript, jQuery
+### Flask, SQLite, Google Maps API
+### Python, Javascript, jQuery
 
 A Flask app (utilizing an SQLite database) that searches for local news.
 
