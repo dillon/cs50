@@ -3,7 +3,7 @@ All of my projects for CS50 2018
 
 
 ## Crypto Dashboard
-##### React Native, Redux
+#### React Native, Redux
 
 A React Native mobile app that displays market info and news on the top 200 cryptocurrencies by market cap.
 
