@@ -29,8 +29,9 @@ alt="Youtube Video" width="480" height="360" border="10" /></a>
 ___
 
 # Local News
-### Flask, SQLite, Google Maps API
-### Python, Javascript, jQuery
+|Flask | SQLite    | Google Maps API|
+| ---- | --------- | ----- |
+|Python| Javascript| jQuery|
 
 A Flask app (utilizing an SQLite database) that searches for local news.
 
