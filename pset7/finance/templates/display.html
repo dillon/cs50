@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Ticker Info
+{% endblock %}
+
+{% block main %}
+    <div class="card" style="width: 18rem;margin: auto">
+      <div class="card-body">
+        <h5 class="card-title">{{ ticker }}</h5>
+        <p class="display-5">{{ price }}</p>
+      </div>
+    </div>
+
+{% endblock %}

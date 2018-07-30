@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    C$50 Finance
+{% endblock %}
+
+{% block main %}
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Symbol</th>
+      <th scope="col">Shares</th>
+      <th scope="col">Current Price</th>
+      <th scope="col">Current Value</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    {% for stock in stocks %}
+      <tr>
+        <td>{{ stock.symbol }}</th>
+        <td>{{ stock.shares }}</th>
+        <td>{{ stock.price }}</th>
+        <td>{{ stock.value }}</th>
+      </tr>
+    {% endfor %}
+
+    <tr class="table-success">
+      <th scope="row">USD</th>
+      <td>-</td>
+      <td>-</td>
+      <td>{{ cash }}</td>
+    </tr>
+    <tr class="table-primary">
+      <th scope="row">TOTAL</th>
+      <td>-</td>
+      <td>-</td>
+      <td>{{ totalvalue }}</td>
+    </tr>
+  </tbody>
+</table>
+
+
+{% endblock %}
