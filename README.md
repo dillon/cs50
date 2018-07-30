@@ -43,3 +43,17 @@ This site uses Flask with the Google Maps API and utilizes an SQLite database wi
 ![app screenshot](https://github.com/dpett/cs50-projects/blob/master/pset8/mashup/mashup2.png?raw=true)
 
 ![app gif](https://github.com/dpett/cs50-projects/blob/master/pset8/mashup/mashup.gif?raw=true)
+
+___
+
+# Stock Exchange
+|Flask | SQLite | Jinja
+|--|--|--|
+
+|Python| Javascript| Jinja
+|--|--|--|
+
+A Flask app (utilizing an SQLite database) that lets users register, login, get stock quotes as well as buy and sell stocks.
+Users also have the option to delete their account and all associated data from the database.
+
+![app gif](https://github.com/dpett/cs50-projects/blob/master/pset7/finance/finance.gif?raw=true)
