@@ -32,7 +32,7 @@ alt="Youtube Video" width="480" height="360" border="10" /></a>
 
 
 
-# Local News
+# Local News Map
 
 |Flask | SQLite    | Google Maps API|
 |--|--|--|
@@ -78,7 +78,7 @@ A Flask app that lets user upload two files and see the similarities between the
 ![app interface](https://github.com/dpett/cs50-projects/blob/master/pset6/similarities/ss.jpg?raw=true)
 ![app results 2](https://github.com/dpett/cs50-projects/blob/master/pset6/similarities/Screen%20Shot%202018-07-30%20at%2011.18.33%20PM.png?raw=true)
 
-# Crack
+# Password Cracker
 
 |C | Python
 |--|--|
@@ -91,7 +91,7 @@ This program was written in C and ported in Python. The C version is a bit faste
 ![python version](https://github.com/dpett/cs50-projects/blob/master/pset6/crack/crackpython.gif?raw=true)
 ![C version](https://github.com/dpett/cs50-projects/blob/master/pset2/crack/crackc.gif?raw=true)
 
-# Speller
+# Spell Checker
 | C |
 |--|
 
@@ -102,7 +102,7 @@ The program spell-checking all of Leo Tolstoy's "War and Peace":
 ![example](https://github.com/dpett/cs50-projects/blob/master/pset5/speller/speller.gif?raw=true)
 
 
-# Recover
+# JPG Recovery
 | C |
 |--|
 
