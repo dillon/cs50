@@ -31,8 +31,8 @@ ___
 |Flask | SQLite    | Google Maps API|
 |--|--|--|
 
-|Python| Javascript| jQuery|
-|--|--|
+|Python | Javascript | jQuery |
+|------|-----------|-------|
 
 A Flask app (utilizing an SQLite database) that searches for local news.
 
