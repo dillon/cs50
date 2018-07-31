@@ -50,7 +50,7 @@ ___
 |Flask | SQLite | Jinja
 |--|--|--|
 
-|Python| Javascript| Jinja
+|Python| Javascript|
 |--|--|--|
 
 A Flask app (utilizing an SQLite database) that lets users register, login, get stock quotes as well as buy and sell stocks.
