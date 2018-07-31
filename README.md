@@ -1,6 +1,6 @@
 # My CS50 Projects
 This repository contains all of my projects from CS50. Descriptions and demos of each project are below
-
+![I took CS50 T-Shirt](https://github.com/dpett/cs50-projects/blob/master/t.png?raw=true)
 
 # Crypto Dashboard
 | React Native| Redux|
