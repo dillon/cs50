@@ -33,7 +33,7 @@ ___
 |--|--|--|
 
 |Python| Javascript| jQuery|
-|--|--|--|
+|--|--|
 
 A Flask app (utilizing an SQLite database) that searches for local news.
 
