@@ -1,4 +1,4 @@
-# My CS50 Projects
+# My [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) Projects
 This repository contains all of my projects/programs/apps made for Harvard's CS50. Descriptions and demos for selected projects are below.
 
 | C | Python | Javascript | jQuery | JSX |
