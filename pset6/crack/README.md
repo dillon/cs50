@@ -1,7 +1,7 @@
 # Password Cracker
 
-|C | Python
-|--|--|
+| Python|
+|--|
 
 
 A command line program that cracks passwords hashed with C's DES-based crypt function (i.e. passwords stored in Linux's ~/etc/shadow) that are up to 5 characters in length and composed of uppercase and/or lowercase alphabetical letters.
