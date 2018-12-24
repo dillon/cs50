@@ -12,6 +12,8 @@
 | React Native| Redux|
 |--|--|
 
+> The code for Crypto Dashboard can be found in this repository: [crypto-dashboard](https://github.com/crypto-dashboard)
+
 A React Native mobile app that displays market info and news on the top 200 cryptocurrencies by market cap.
 
 Each cryptocurrency can be clicked to view more price-related and technical information such as its available, total, and maximum supply.
